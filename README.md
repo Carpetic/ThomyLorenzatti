@@ -40,23 +40,7 @@
   <a href="github.com/ThomyLorenzatti" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=ThomyLorenzatti&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
-  <a href="https://ThomyLorenzatti.github.io/ThomyLorenzatti/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2FThomyLorenzatti.github.io%2FThomyLorenzatti%2F" height="25"
-     alt="website" /></a>
   </p>
-  <p align="center">
-  <a href="github.com/ThomyLorenzatti" target="blank"><img align="center" 
-     src="https://github.com/ThomyLorenzatti/ThomyLorenzatti/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
-     alt="page built"/></a>
-  </p>
- <p align="center">
-  <a href="github.com/ThomyLorenzatti" target="blank"><img align="center" 
-     src="https://img.shields.io/github/license/ThomyLorenzatti/ThomyLorenzatti?color=purple&style=for-the-badge" height="25"
-     alt="lisense" /></a>
-  <a href="github.com/ThomyLorenzatti"><img align="center"
-     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-     alt="work on my machine" /></a>
- </p>
  </samp>
 </div>
 </details>
@@ -71,14 +55,14 @@
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/ThomyLorenzatti/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomyLorenzatti&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomyLorenzatti&langs_count=6&theme=algolia&layout=compact&hide_border=true"
           alt="ThomyLorenzatti :: overall Top Langs " /></a>
       </p>
         <p align="center">
           <a href="https://github.com/ThomyLorenzatti/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThomyLorenzatti&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThomyLorenzatti&theme=algolia&layout=compact&hide_border=true"
           alt="ThomyLorenzatti :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThomyLorenzatti&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThomyLorenzatti&theme=algolia&layout=compact&hide_border=true"
           alt="ThomyLorenzatti :: Top Langs by commit" />
           </a>
         </p>
@@ -87,8 +71,8 @@
   <summary><h3>Stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/ThomyLorenzatti/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ThomyLorenzatti&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomyLorenzatti&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ThomyLorenzatti&show_icons=true&theme=algolia&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomyLorenzatti&theme=algolia&hide_border=true" />
           </a>
        </p>
      <br>
