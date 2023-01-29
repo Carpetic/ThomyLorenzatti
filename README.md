@@ -14,10 +14,9 @@
 
 -----
   
-  <h1>💻 GitHub Profile Stats</h1>
+  <h1 align="center">💻 GitHub Profile Stats</h1>
   <div>
   <samp>
-    <h2 align="center"> Github stats </h2>
       <br/>
   <summary><h3>Languages</h3></summary>
             <p align="center">
@@ -35,10 +34,9 @@
      </samp>
   </div>    
 
-  <summary>📈 Latest Activity Graph</summary>
+  <h2 align="center">📈 Latest Activity Graph</h2>
   <samp>
   <br/>
-  <h2 align="center"> Latest contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="Thomy's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ThomyLorenzatti&theme=github-compact&hide_border=true" /></a>
 <br/>
@@ -48,7 +46,7 @@
   <summary>☎️ Contact me</summary>
 <div>
   <samp>
-    <h2 align="center">you can contact me here:</h2>
+    <h2 align="center">You can contact me here:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/thomy-lorenzatti-6b60621bb/" target="blank"><img align="center"
@@ -75,29 +73,6 @@
  </samp>
 </div>
 </details>
-
-<details>
-  <summary>🌏 Global</summary>
-  <br/>
-  <details open>
-  <summary>👷‍♂️ Create your own custom badge</summary>
-  <div>
-  <samp>
-    <h2 align="center">You can try using these website for creating your own custom badge</h2>
-    <p align="center">
-      <a href="https://forthebadge.com/generator/" target="blank">
-        <img src="https://forthebadge.com/images/mark.svg" img align="center" height="50"
-        alt="for the badge"/></a>        
-      <a href="https://badgen.net/" target="blank">
-        <img src="https://badgen.net/static/favicon.png" img align="center" height="50"
-        alt="badgen"/></a>
-      <a href="https://shields.io/" target="blank">
-        <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg" img align="center" height="50"
-        alt="shields.io"/></a>
-    </p>
-    </samp>
-  </div>
-</details> 
 
 </body>
 </html>
