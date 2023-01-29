@@ -55,14 +55,14 @@
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/ThomyLorenzatti/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomyLorenzatti&langs_count=6&theme=algolia&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomyLorenzatti&langs_count=6&theme=transparent&layout=compact&hide_border=true"
           alt="ThomyLorenzatti :: overall Top Langs " /></a>
       </p>
         <p align="center">
           <a href="https://github.com/ThomyLorenzatti/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThomyLorenzatti&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThomyLorenzatti&theme=transparent&layout=compact&hide_border=true"
           alt="ThomyLorenzatti :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThomyLorenzatti&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThomyLorenzatti&theme=transparent&layout=compact&hide_border=true"
           alt="ThomyLorenzatti :: Top Langs by commit" />
           </a>
         </p>
@@ -71,8 +71,8 @@
   <summary><h3>Stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/ThomyLorenzatti/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ThomyLorenzatti&show_icons=true&theme=algolia&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomyLorenzatti&theme=algolia&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ThomyLorenzatti&show_icons=true&theme=transparent&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomyLorenzatti&theme=transparent&hide_border=true" />
           </a>
        </p>
      <br>
