@@ -58,14 +58,6 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomyLorenzatti&langs_count=6&theme=react&layout=compact&hide_border=true"
           alt="ThomyLorenzatti :: overall Top Langs " /></a>
       </p>
-        <p align="center">
-          <a href="https://github.com/ThomyLorenzatti/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThomyLorenzatti&theme=react&layout=compact&hide_border=true"
-          alt="ThomyLorenzatti :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThomyLorenzatti&theme=react&layout=compact&hide_border=true"
-          alt="ThomyLorenzatti :: Top Langs by commit" />
-          </a>
-        </p>
 </details>
     <details open>
   <summary><h3>Stasistic</h3></summary>
