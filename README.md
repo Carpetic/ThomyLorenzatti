@@ -51,15 +51,12 @@
   <samp>
     <h2 align="center"> Github stats </h2>
       <br/>
-    <details open>
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/ThomyLorenzatti/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomyLorenzatti&langs_count=6&theme=react&layout=compact&hide_border=true"
           alt="ThomyLorenzatti :: overall Top Langs " /></a>
       </p>
-</details>
-    <details open>
   <summary><h3>Stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/ThomyLorenzatti/">
@@ -70,7 +67,6 @@
      <br>
      </samp>
   </div>    
-</details>
 
 <details>
   <summary>📈 Latest Activity Graph</summary>
