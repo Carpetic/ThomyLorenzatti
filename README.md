@@ -56,7 +56,6 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomyLorenzatti&langs_count=6&theme=react&layout=compact&hide_border=true"
           alt="ThomyLorenzatti :: overall Top Langs " /></a>
       </p>
-    <details open>
         <p align="center">
           <a href="https://github.com/ThomyLorenzatti/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ThomyLorenzatti&show_icons=true&theme=react&hide_border=true" />
