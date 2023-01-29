@@ -45,7 +45,6 @@
 </div>
 </details>
   
-<details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
   <samp>
@@ -57,7 +56,7 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomyLorenzatti&langs_count=6&theme=react&layout=compact&hide_border=true"
           alt="ThomyLorenzatti :: overall Top Langs " /></a>
       </p>
-  <summary><h3>Stasistic</h3></summary>
+    <details open>
         <p align="center">
           <a href="https://github.com/ThomyLorenzatti/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ThomyLorenzatti&show_icons=true&theme=react&hide_border=true" />
@@ -101,7 +100,6 @@
     </samp>
   </div>
 </details> 
-</details>  
 
 </body>
 </html>
