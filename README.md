@@ -13,6 +13,37 @@
 </div>
 
 -----
+  
+  <h1>💻 GitHub Profile Stats</h1>
+  <div>
+  <samp>
+    <h2 align="center"> Github stats </h2>
+      <br/>
+  <summary><h3>Languages</h3></summary>
+            <p align="center">
+        <a href="https://github.com/ThomyLorenzatti/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomyLorenzatti&langs_count=6&theme=react&layout=compact&hide_border=true"
+          alt="ThomyLorenzatti :: overall Top Langs " /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/ThomyLorenzatti/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ThomyLorenzatti&show_icons=true&theme=react&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomyLorenzatti&theme=react&hide_border=true" />
+          </a>
+       </p>
+     <br>
+     </samp>
+  </div>    
+
+  <summary>📈 Latest Activity Graph</summary>
+  <samp>
+  <br/>
+  <h2 align="center"> Latest contribution </h2>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Thomy's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ThomyLorenzatti&theme=github-compact&hide_border=true" /></a>
+<br/>
+  </samp>
+  
 <details>
   <summary>☎️ Contact me</summary>
 <div>
@@ -44,39 +75,7 @@
  </samp>
 </div>
 </details>
-  
-  <h1>💻 GitHub Profile Stats</h1>
-  <div>
-  <samp>
-    <h2 align="center"> Github stats </h2>
-      <br/>
-  <summary><h3>Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/ThomyLorenzatti/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomyLorenzatti&langs_count=6&theme=react&layout=compact&hide_border=true"
-          alt="ThomyLorenzatti :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/ThomyLorenzatti/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ThomyLorenzatti&show_icons=true&theme=react&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomyLorenzatti&theme=react&hide_border=true" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
 
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-  <br/>
-  <h2 align="center"> Latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Thomy's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ThomyLorenzatti&theme=github-compact&hide_border=true" /></a>
-<br/>
-  </samp>
-  </details>
-  
 <details>
   <summary>🌏 Global</summary>
   <br/>
