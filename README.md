@@ -45,7 +45,7 @@
 </div>
 </details>
   
-  <summary>💻 GitHub Profile Stats</summary>
+  <h1>💻 GitHub Profile Stats</h1>
   <div>
   <samp>
     <h2 align="center"> Github stats </h2>
