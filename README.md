@@ -60,9 +60,9 @@
       </p>
         <p align="center">
           <a href="https://github.com/ThomyLorenzatti/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThomyLorenzatti&theme=algolia&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThomyLorenzatti&layout=compact&hide_border=true"
           alt="ThomyLorenzatti :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThomyLorenzatti&theme=algolia&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThomyLorenzatti&layout=compact&hide_border=true"
           alt="ThomyLorenzatti :: Top Langs by commit" />
           </a>
         </p>
